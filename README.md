@@ -1,3 +1,6 @@
+#github-pages
+https://ekaterina-titareva.github.io/week21-react/
+
 <img src="./src/chart.jpg" height="400"/>
 
 # Getting Started with Create React App
