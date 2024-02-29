@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/week21-react/static/css/main.3230b962.css",
+    "main.js": "/week21-react/static/js/main.6abb9b78.js",
+    "index.html": "/week21-react/index.html",
+    "main.3230b962.css.map": "/week21-react/static/css/main.3230b962.css.map",
+    "main.6abb9b78.js.map": "/week21-react/static/js/main.6abb9b78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3230b962.css",
+    "static/js/main.6abb9b78.js"
+  ]
+}
