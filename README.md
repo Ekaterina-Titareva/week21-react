@@ -1,4 +1,4 @@
-<img src="./src/chart.jpg" height="600"/>
+<img src="./src/chart.jpg" height="400"/>
 
 # Getting Started with Create React App
 
